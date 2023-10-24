@@ -28,7 +28,7 @@ direction = []
 
 xStart = 9
 yStart = 0
-directionStart = 1.65
+directionStart = 1.62
 
 for t in range(steps):
     x.append(xStart)
